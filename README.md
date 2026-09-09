@@ -55,6 +55,8 @@ Painel executivo com atualização de dados e filtros dinâmicos por Ano, Mês e
 
 ## 📸 Interface do Sistema
 
+> ⚠️ **Nota:** Os dados, nomes e valores exibidos nas imagens abaixo foram gerados apenas para fins de demonstração do sistema.
+
 ### 📌 Menu Inicial
 ![Menu Principal](Assets/01_Menu.PNG)
 

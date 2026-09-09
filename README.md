@@ -55,34 +55,32 @@ Painel executivo com atualização de dados e filtros dinâmicos por Ano, Mês e
 
 ## 📸 Interface do Sistema
 
-## 📸 Interface do Sistema
-
-### 📌 Menu Principal
-![Menu Inicial](assets/01_Menu.PNG)
+### 📌 Menu Inicial
+![Menu Principal](Assets/01_Menu.PNG)
 
 ### 🧭 Painel de Navegação
-![Painel de Navegação](assets/02_Painel_de_Selecao.PNG)
+![Painel de Navegação](Assets/02_Painel_de_Selecao.PNG)
 
 ### 🚍 Cadastro de Veículos
-![Cadastro de Veículos](assets/03_Cadastro_de_Veiculos.PNG)
+![Cadastro de Veículos](Assets/03_Cadastro_de_Veiculos.PNG)
 
 ### 👨‍✈️ Cadastro de Motoristas
-![Cadastro de Motoristas](assets/04_Cadastro_de_Motoristas.PNG)
+![Cadastro de Motoristas](Assets/04_Cadastro_de_Motoristas.PNG)
 
 ### 🏪 Cadastro de Fornecedores
-![Cadastro de Fornecedores](assets/05_Cadastro_de_Fornecedores.PNG)
+![Cadastro de Fornecedores](Assets/05_Cadastro_de_Fornecedores.PNG)
 
 ### ⚙️ Cadastro Geral
-![Cadastro Geral](assets/06_Cadastro_de_Geral.PNG)
+![Cadastro Geral](Assets/06_Cadastro_de_Geral.PNG)
 
 ### ⛽ Lançamento de Abastecimentos
-![Abastecimentos](assets/07_Abastecimentos.PNG)
+![Abastecimentos](Assets/07_Abastecimentos.PNG)
 
 ### 📄 Relatório de Consumo
-![Relatório de Consumo](assets/08_Relatorio_de_Abastecimentos.PNG)
+![Relatório de Consumo](Assets/08_Relatorio_de_Abastecimentos.PNG)
 
 ### 📊 Dashboard Gerencial
-![Dashboard Gerencial](assets/09_Dashboard.PNG)
+![Dashboard Gerencial](Assets/09_Dashboard.PNG)
 
 ---
 
@@ -120,4 +118,4 @@ Painel executivo com atualização de dados e filtros dinâmicos por Ano, Mês e
 * **Interface Dark Mode:** Visual estilizado em tons escuros focado na experiência do usuário e usabilidade.
 * **Proporção e Layout de Sistema:** Estruturação visual projetada para parecer uma aplicação desktop dedicada, ocultando elementos padrão da planilha quando necessário.
 
----
+
